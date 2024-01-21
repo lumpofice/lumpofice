@@ -1,7 +1,7 @@
-- 👋 Hi, I’m JP
+- 👋 Hi, I’m Jonathan
 - 👀 Math teacher
-- 🌱 Currently reading Rudin's Principles and Casella's Inference 
-- 💞️ For educational purposes, building a website that focuses on precalculus concepts
+- 🌱 Currently, I am reading Rudin's Principles, Axler's LADR, and Bean's Probability 
+- 💞️ For educational purposes, I am building a website that focuses on mathematics concepts, including Calculus, PreCalculus, and the Metric Topology.
 ~~~
-jparker@gmc.edu
+jparker007@gmail.com
 ~~~
